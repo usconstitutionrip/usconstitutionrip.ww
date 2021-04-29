@@ -1,0 +1,6 @@
+mv scan0044_08/_index.md   rip_scan0044_08.md
+mv scan0044_09/_index.md   rip_scan0044_09.md
+mv scan0044_10/_index.md   rip_scan0044_10.md
+mv scan0044_11/_index.md   rip_scan0044_11.md
+mv scan0044_12/_index.md   rip_scan0044_12.md
+mv scan0044_13/_index.md   rip_scan0044_13.md

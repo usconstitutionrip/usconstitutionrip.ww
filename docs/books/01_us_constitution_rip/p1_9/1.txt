@@ -1,0 +1,7 @@
+mv scan0044_01/_index.md   rip_scan0044_01.md
+mv scan0044_02/_index.md   rip_scan0044_02.md
+mv scan0044_03/_index.md   rip_scan0044_03.md
+mv scan0044_04/_index.md   rip_scan0044_04.md
+mv scan0044_05/_index.md   rip_scan0044_05.md
+mv scan0044_06/_index.md   rip_scan0044_06.md
+mv scan0044_07/_index.md   rip_scan0044_07.md

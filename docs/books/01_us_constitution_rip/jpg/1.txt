@@ -1,0 +1,13 @@
+mkdir ../scan0044_01
+mkdir ../scan0044_02
+mkdir ../scan0044_03
+mkdir ../scan0044_04
+mkdir ../scan0044_05
+mkdir ../scan0044_06
+mkdir ../scan0044_07
+mkdir ../scan0044_08
+mkdir ../scan0044_09
+mkdir ../scan0044_10
+mkdir ../scan0044_11
+mkdir ../scan0044_12
+mkdir ../scan0044_13
